@@ -2,17 +2,17 @@
 Spotify SQL analysis with 15 practice queries and data insights
 
 ## Spotify SQL Analysis Project
-<img width="1872" height="976" alt="Image" src="https://github.com/user-attachments/assets/8fbe5805-1eb5-427b-be30-ed30d9cb4796" />
+<img width="1872" height="976" alt="Image" src="https://github.com/user-attachments/assets/43ddb34c-5e2a-482f-a4e2-d8f20659f913" />
 This project showcases my SQL skills by analyzing a Spotify dataset from Kaggle using PostgreSQL in pgAdmin 4. The focus is on data cleaning, exploration, and query practice to extract meaningful insights from music data. You can see my SQL code file <a href="https://github.com/khinezinthant-DA/SQL-Data-Analysis-Project-1/blob/main/SQL%20file.sql"> here </a>. 
 
 ## Tools & Technologies
 - PostgreSQL (pgAdmin 4)
 - SQL Queries (SELECT, Aggregations, Window Functions, CTEs)
-- Spotify Dataset from Kaggle
+- <a href="https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset">Spotify Dataset</a> from Kaggle 
 - Reference Video Tutorial: - <a href="https://youtu.be/nHjIsKZ79-M?si=l50dc6ESfTK7rV2R">Zero Analyst</a>
 
 ## Project Workflow
-1. Built SQL tables and imported the Spotify dataset
+1. Built SQL table and imported the Spotify dataset
 2. Performed Exploratory Data Analysis (EDA) to understand trends
 3. Practiced 15 SQL queries across three difficulty levels:
    - Easy 
